@@ -1,3 +1,7 @@
+
+
+demooooooo
+
 1. ClusterIP Service (Default)
 A ClusterIP service exposes the service on a cluster-internal IP. This type of service is only reachable within the cluster.
 
